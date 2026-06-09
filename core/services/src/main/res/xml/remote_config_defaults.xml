@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>welcome_message</key>
+        <value>Добро пожаловать в Потерял-Нашёл</value>
+    </entry>
+    <entry>
+        <key>experimental_feature_enabled</key>
+        <value>false</value>
+    </entry>
+</defaultsMap>
