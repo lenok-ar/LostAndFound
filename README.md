@@ -1,6 +1,9 @@
-# Потерял-Нашёл
+# Lost and Found
 
 Android-приложение для публикации и поиска объявлений о потерянных вещах в КемГУ.
+
+Ссылка на гугл диск с лабораторными работами №3-№9
+https://drive.google.com/drive/folders/1vloF5FPpnZWPoz8W99j4YNUtppAMnM3Z?usp=sharing
 
 ## Лабораторные работы
 
